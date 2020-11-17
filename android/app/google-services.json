@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198737922422",
+    "firebase_url": "https://tracksweat-83231.firebaseio.com",
+    "project_id": "tracksweat-83231",
+    "storage_bucket": "tracksweat-83231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198737922422:android:eba1612b12be773db45257",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198737922422-7ec3tuornpddr1lnv225u211fh2pek0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "8f4c1e2386d12215ce365629e9a24c5583d78277"
+          }
+        },
+        {
+          "client_id": "198737922422-rp5eg3ndndbtalr4df2jojsoudfe0fc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPLf8HPnWytllL4WxCdT1QuAZzNTTfVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198737922422-rp5eg3ndndbtalr4df2jojsoudfe0fc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
